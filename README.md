@@ -5,3 +5,4 @@
 - Highest-Performing Scchools & Bottom Performing Schools: sort the % Overall Passing values and display the top 5 rows (using head()) in descending order (ascending=False) and asecending order (asecending=True) respectively. The instructor informed us about this in class.
 - Math Scores by Grade & Reading Scores by Grade: This part is relatively straightforward. Most of the code were pre-existed and I only had to combine them to make one single DataFrame.
 - Scores by School Spending & Scores by School Size & Score by School Type: The exercise's most challenging portion for me was the pd.cut function to categorize spending based on the bins. I used https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.cut.html and Stack Overflow (Q: Pandas how to use pd,cut()) as well as a lot of trial and error to produce the results.
+- THE WRITTEN REPORT IS IN WORD DOC IN THE PYCITYSCHOOLS FOLDER
